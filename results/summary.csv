@@ -1,4 +1,0 @@
-angle_deg,load_line_mm,peak_force_N,max_displacement_mm,stiffness_N_per_m,energy_stored_J,energy_returned_J,energy_lost_J,energy_return_pct,fit_a,fit_b,fit_c,fit_r2
-20,10,1864.3,34.63,53828,32.51,29.48,3.03,90.7,-0.3841,74.396,-302.4459,0.99964
-17,8,1798.3,42.62,42189,40.6,38.85,1.75,95.7,-0.4824,66.1471,-223.0018,0.99993
-14,6,1700.5,51.15,33244,47.95,45.67,2.28,95.2,-0.3425,52.6862,-166.6096,0.99978
