@@ -56,7 +56,7 @@ results/                    output of the script (summary.csv, plots)
 
 ## Contributions
 
-The research project was done as a team of three with the prosthesis company, and
+The research project was done as a team of three with Hopper (the prosthesis company), and
 the physical modelling was worked out together. I wrote the original analysis code
 (data processing, least-squares fit, energy and stiffness computation, plots);
 this repository reorganises my three original scripts into a single, documented one.
