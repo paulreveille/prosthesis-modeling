@@ -8,8 +8,6 @@ blade edge, i.e. a different blade angle), the script computes:
   * an average stiffness,
   * a quadratic least-squares fit of the last points of the raw unloading
     curve, used to correct the zero offset of the test bench.
-
-Usage:  python src/analyze_load_lines.py [--data data] [--out results]
 """
 import argparse
 import csv
